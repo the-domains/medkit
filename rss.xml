@@ -2,14 +2,23 @@
     <channel>
         <title><![CDATA[Ensuring Site Safety Stays First]]></title>
         <description><![CDATA[Ensuring Site Safety Stays First]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/medkit/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Feb 2016 13:13:38 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 02 Feb 2016 13:26:21 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/medkit/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Regulators]]></title>
+            <description><![CDATA[<article><h1>Regulators</h1><p>And I'm not talking about the one that keeps your work nice and cool. I'm talking about the one that keeps it safe. But if you are working in multiple states, are you checking that you are complying with all of them, not just where you are based?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6cb2290a5234b86f05ab6f41716116e92f64174f.png"></article>]]></description>
+            <link>https://thegrid.ai/medkit/regulators/index.html</link>
+            <guid isPermaLink="false">bf95ee28-d984-4232-9729-3da6a1f7ac84</guid>
+            <pubDate>Tue, 02 Feb 2016 13:25:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Are you up to date?]]></title>
-            <description><![CDATA[<article><h1>Are you up to date?</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2fd1ce0d-b035-43c9-bd2c-4073393e0ed7.png"></article>]]></description>
-            <link>undefinedare-you-up-to-date/index.html</link>
+            <description><![CDATA[<article><h1>Are you up to date?</h1><p>The Federal "FIRST AID IN THE
+WORKPLACE
+Code of Practice" was updated in 2015. Are you aware of the changes? Put someone in charge so you can get back to the important thing, running your business.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0dce74dd1c30a2025fc5565e8b7fc4231ec584e9.png"></article>]]></description>
+            <link>https://thegrid.ai/medkit/are-you-up-to-date/index.html</link>
             <guid isPermaLink="false">abc61a36-403f-41bc-92f1-6f40d31664da</guid>
             <pubDate>Tue, 02 Feb 2016 13:13:22 GMT</pubDate>
         </item>
