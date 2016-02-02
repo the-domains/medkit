@@ -2,7 +2,6 @@ name: Medkit
 favicon: null
 layout_spectrum: 0.6197509767953306
 typography_spectrum: 0.8855573139153421
-title: Site safety comes first
 cta:
   domain: null
   bucket: null
@@ -17,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#cdcbce'
+    - '#005500'
+    - '#838377'
+    - '#5cff89'
+    - '#00cd17'
   brandStrength: 0.7150758071802557
   lightness: 0.7691150538157672
   saturation: 0.03684757091104984
